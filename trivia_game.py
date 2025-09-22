@@ -2,7 +2,7 @@
 # store the answers
 
 # randowmly pick questions
-# ask the question
+# ask the questions
 # see if they are correct
 # keep track of the score
 # tell the user their score
